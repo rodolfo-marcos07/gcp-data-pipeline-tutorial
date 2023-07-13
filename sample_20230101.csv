@@ -1,0 +1,21 @@
+id,name,birth date,occupation,gender
+1,John,05/23/1985,Doctor,M
+2,Mary,09/12/1992,Engineer,F
+3,Joe,02/08/1978,Lawyer,M
+4,Anna,07/31/1989,Programmer,F
+5,Paul,11/17/1996,Student,M
+6,Renata,04/02/1981,Nurse,F
+7,Luke,08/19/1993,Architect,M
+8,Fernanda,12/27/1975,Psychologist,F
+9,Gus,03/14/1990,Veterinarian,M
+10,Julie,06/21/1982,Programmer,F
+11,Raphael,10/09/1995,Student,M
+12,Carol,01/25/1987,Journalist,F
+13,Matthew,05/07/1979,Entrepreneur,M
+14,Bruna,08/01/1994,Designer,F
+15,Fabio,12/18/1986,Pharmacist,M
+16,Camille,02/06/1980,Teacher,F
+17,Andrew,06/22/1991,Engineer,M
+18,Maryann,11/13/1983,Psychiatrist,F
+19,Pete,03/30/1998,Student,M
+20,Luana,07/15/1976,Doctor,F
